@@ -1,2 +1,4 @@
 class Author 
-  attr_accessor :nmae
+  attr_accessor :name 
+end 
+author = Author.new
