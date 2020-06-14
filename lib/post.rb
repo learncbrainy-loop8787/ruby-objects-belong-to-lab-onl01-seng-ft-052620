@@ -1,4 +1,4 @@
 class Post 
   attr_accessor :title, :author
 end
-title = 
+post = Post.new 
